@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def noc_c(my_string):
+def no_c(my_string):
     output = ''
     for char in my_string:
         if char != 'c' and char != 'C':
