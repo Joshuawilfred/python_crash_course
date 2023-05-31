@@ -4,5 +4,5 @@
 
 class Square:
     """In the class code"""
-     def __init__(self, size):
+     def __init__(self, size=None):
          self.__size = size
